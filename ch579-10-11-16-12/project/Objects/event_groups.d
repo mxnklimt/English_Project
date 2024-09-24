@@ -1,0 +1,91 @@
+.\objects\event_groups.o: ..\FreeRTOS\event_groups.c
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\event_groups.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\event_groups.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\event_groups.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\event_groups.o: ..\net_library\CH57xNET.h
+.\objects\event_groups.o: ..\net\net_init.h
+.\objects\event_groups.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\event_groups.o: ..\net\net_dhcp.h
+.\objects\event_groups.o: ..\user\main.h
+.\objects\event_groups.o: ..\net\net_dns.h
+.\objects\event_groups.o: ..\net\net_tcp_client.h
+.\objects\event_groups.o: ..\net\net_udp.h
+.\objects\event_groups.o: ..\user\uart.h
+.\objects\event_groups.o: ..\mem\LoopList.h
+.\objects\event_groups.o: ..\user\tcp_data.h
+.\objects\event_groups.o: ..\user\uart_data.h
+.\objects\event_groups.o: ..\user\send_tcp.h
+.\objects\event_groups.o: ..\FlashDB\flashdb.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\event_groups.o: ..\FlashDB\fdb_cfg.h
+.\objects\event_groups.o: ..\fal\fal.h
+.\objects\event_groups.o: ..\fal\fal_cfg.h
+.\objects\event_groups.o: ..\fal\fal_def.h
+.\objects\event_groups.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\event_groups.o: ..\FlashDB\fdb_def.h
+.\objects\event_groups.o: ..\user\timswitch.h
+.\objects\event_groups.o: ..\user\SPIFlash.H
+.\objects\event_groups.o: ..\user\rtc.h
+.\objects\event_groups.o: ..\user\time.h
+.\objects\event_groups.o: ..\user\led.h
+.\objects\event_groups.o: ..\user\tcp_data_handle.h
+.\objects\event_groups.o: ..\user\lora_link.h
+.\objects\event_groups.o: ..\user\w25q32.h
+.\objects\event_groups.o: ..\user\Code_Flash.h
+.\objects\event_groups.o: ..\user\db.h
+.\objects\event_groups.o: ..\sfud\sfud.h
+.\objects\event_groups.o: ..\sfud\sfud_def.h
+.\objects\event_groups.o: ..\sfud\sfud_cfg.h
+.\objects\event_groups.o: ..\sfud\sfud_flash_def.h
+.\objects\event_groups.o: ..\FreeRTOS\include\projdefs.h
+.\objects\event_groups.o: ..\FreeRTOS\include\portable.h
+.\objects\event_groups.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\event_groups.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\event_groups.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\event_groups.o: ..\FreeRTOS\include\task.h
+.\objects\event_groups.o: ..\FreeRTOS\include\list.h
+.\objects\event_groups.o: ..\FreeRTOS\include\timers.h
+.\objects\event_groups.o: ..\FreeRTOS\include\event_groups.h

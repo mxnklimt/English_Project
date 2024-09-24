@@ -1,0 +1,89 @@
+.\objects\port.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\port.c
+.\objects\port.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\port.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\port.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\port.o: ..\net_library\CH57xNET.h
+.\objects\port.o: ..\net\net_init.h
+.\objects\port.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\port.o: ..\net\net_dhcp.h
+.\objects\port.o: ..\user\main.h
+.\objects\port.o: ..\net\net_dns.h
+.\objects\port.o: ..\net\net_tcp_client.h
+.\objects\port.o: ..\net\net_udp.h
+.\objects\port.o: ..\user\uart.h
+.\objects\port.o: ..\mem\LoopList.h
+.\objects\port.o: ..\user\tcp_data.h
+.\objects\port.o: ..\user\uart_data.h
+.\objects\port.o: ..\user\send_tcp.h
+.\objects\port.o: ..\FlashDB\flashdb.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\port.o: ..\FlashDB\fdb_cfg.h
+.\objects\port.o: ..\fal\fal.h
+.\objects\port.o: ..\fal\fal_cfg.h
+.\objects\port.o: ..\fal\fal_def.h
+.\objects\port.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\port.o: ..\FlashDB\fdb_def.h
+.\objects\port.o: ..\user\timswitch.h
+.\objects\port.o: ..\user\SPIFlash.H
+.\objects\port.o: ..\user\rtc.h
+.\objects\port.o: ..\user\time.h
+.\objects\port.o: ..\user\led.h
+.\objects\port.o: ..\user\tcp_data_handle.h
+.\objects\port.o: ..\user\lora_link.h
+.\objects\port.o: ..\user\w25q32.h
+.\objects\port.o: ..\user\Code_Flash.h
+.\objects\port.o: ..\user\db.h
+.\objects\port.o: ..\sfud\sfud.h
+.\objects\port.o: ..\sfud\sfud_def.h
+.\objects\port.o: ..\sfud\sfud_cfg.h
+.\objects\port.o: ..\sfud\sfud_flash_def.h
+.\objects\port.o: ..\FreeRTOS\include\projdefs.h
+.\objects\port.o: ..\FreeRTOS\include\portable.h
+.\objects\port.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\port.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\port.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\port.o: ..\FreeRTOS\include\task.h
+.\objects\port.o: ..\FreeRTOS\include\list.h

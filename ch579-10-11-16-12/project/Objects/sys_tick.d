@@ -1,0 +1,90 @@
+.\objects\sys_tick.o: ..\user\sys_tick.c
+.\objects\sys_tick.o: ..\user\sys_tick.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\sys_tick.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\sys_tick.o: ..\net_library\CH57xNET.h
+.\objects\sys_tick.o: ..\net\net_init.h
+.\objects\sys_tick.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\sys_tick.o: ..\net\net_dhcp.h
+.\objects\sys_tick.o: ..\user\main.h
+.\objects\sys_tick.o: ..\net\net_dns.h
+.\objects\sys_tick.o: ..\net\net_tcp_client.h
+.\objects\sys_tick.o: ..\net\net_udp.h
+.\objects\sys_tick.o: ..\user\uart.h
+.\objects\sys_tick.o: ..\mem\LoopList.h
+.\objects\sys_tick.o: ..\user\tcp_data.h
+.\objects\sys_tick.o: ..\user\uart_data.h
+.\objects\sys_tick.o: ..\user\send_tcp.h
+.\objects\sys_tick.o: ..\FlashDB\flashdb.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\sys_tick.o: ..\FlashDB\fdb_cfg.h
+.\objects\sys_tick.o: ..\fal\fal.h
+.\objects\sys_tick.o: ..\fal\fal_cfg.h
+.\objects\sys_tick.o: ..\fal\fal_def.h
+.\objects\sys_tick.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\sys_tick.o: ..\FlashDB\fdb_def.h
+.\objects\sys_tick.o: ..\user\timswitch.h
+.\objects\sys_tick.o: ..\user\SPIFlash.H
+.\objects\sys_tick.o: ..\user\rtc.h
+.\objects\sys_tick.o: ..\user\time.h
+.\objects\sys_tick.o: ..\user\led.h
+.\objects\sys_tick.o: ..\user\tcp_data_handle.h
+.\objects\sys_tick.o: ..\user\lora_link.h
+.\objects\sys_tick.o: ..\user\w25q32.h
+.\objects\sys_tick.o: ..\user\Code_Flash.h
+.\objects\sys_tick.o: ..\user\db.h
+.\objects\sys_tick.o: ..\sfud\sfud.h
+.\objects\sys_tick.o: ..\sfud\sfud_def.h
+.\objects\sys_tick.o: ..\sfud\sfud_cfg.h
+.\objects\sys_tick.o: ..\sfud\sfud_flash_def.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\projdefs.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\portable.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\sys_tick.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\task.h
+.\objects\sys_tick.o: ..\FreeRTOS\include\list.h

@@ -1,0 +1,90 @@
+.\objects\queue.o: ..\FreeRTOS\queue.c
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\queue.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\queue.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\queue.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\queue.o: ..\net_library\CH57xNET.h
+.\objects\queue.o: ..\net\net_init.h
+.\objects\queue.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\queue.o: ..\net\net_dhcp.h
+.\objects\queue.o: ..\user\main.h
+.\objects\queue.o: ..\net\net_dns.h
+.\objects\queue.o: ..\net\net_tcp_client.h
+.\objects\queue.o: ..\net\net_udp.h
+.\objects\queue.o: ..\user\uart.h
+.\objects\queue.o: ..\mem\LoopList.h
+.\objects\queue.o: ..\user\tcp_data.h
+.\objects\queue.o: ..\user\uart_data.h
+.\objects\queue.o: ..\user\send_tcp.h
+.\objects\queue.o: ..\FlashDB\flashdb.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\queue.o: ..\FlashDB\fdb_cfg.h
+.\objects\queue.o: ..\fal\fal.h
+.\objects\queue.o: ..\fal\fal_cfg.h
+.\objects\queue.o: ..\fal\fal_def.h
+.\objects\queue.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\queue.o: ..\FlashDB\fdb_def.h
+.\objects\queue.o: ..\user\timswitch.h
+.\objects\queue.o: ..\user\SPIFlash.H
+.\objects\queue.o: ..\user\rtc.h
+.\objects\queue.o: ..\user\time.h
+.\objects\queue.o: ..\user\led.h
+.\objects\queue.o: ..\user\tcp_data_handle.h
+.\objects\queue.o: ..\user\lora_link.h
+.\objects\queue.o: ..\user\w25q32.h
+.\objects\queue.o: ..\user\Code_Flash.h
+.\objects\queue.o: ..\user\db.h
+.\objects\queue.o: ..\sfud\sfud.h
+.\objects\queue.o: ..\sfud\sfud_def.h
+.\objects\queue.o: ..\sfud\sfud_cfg.h
+.\objects\queue.o: ..\sfud\sfud_flash_def.h
+.\objects\queue.o: ..\FreeRTOS\include\projdefs.h
+.\objects\queue.o: ..\FreeRTOS\include\portable.h
+.\objects\queue.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\queue.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\queue.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\queue.o: ..\FreeRTOS\include\task.h
+.\objects\queue.o: ..\FreeRTOS\include\list.h
+.\objects\queue.o: ..\FreeRTOS\include\queue.h

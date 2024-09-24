@@ -1,0 +1,89 @@
+.\objects\heap_4.o: ..\FreeRTOS\portable\MemMang\heap_4.c
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\heap_4.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\heap_4.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\heap_4.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\heap_4.o: ..\net_library\CH57xNET.h
+.\objects\heap_4.o: ..\net\net_init.h
+.\objects\heap_4.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\heap_4.o: ..\net\net_dhcp.h
+.\objects\heap_4.o: ..\user\main.h
+.\objects\heap_4.o: ..\net\net_dns.h
+.\objects\heap_4.o: ..\net\net_tcp_client.h
+.\objects\heap_4.o: ..\net\net_udp.h
+.\objects\heap_4.o: ..\user\uart.h
+.\objects\heap_4.o: ..\mem\LoopList.h
+.\objects\heap_4.o: ..\user\tcp_data.h
+.\objects\heap_4.o: ..\user\uart_data.h
+.\objects\heap_4.o: ..\user\send_tcp.h
+.\objects\heap_4.o: ..\FlashDB\flashdb.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\heap_4.o: ..\FlashDB\fdb_cfg.h
+.\objects\heap_4.o: ..\fal\fal.h
+.\objects\heap_4.o: ..\fal\fal_cfg.h
+.\objects\heap_4.o: ..\fal\fal_def.h
+.\objects\heap_4.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\heap_4.o: ..\FlashDB\fdb_def.h
+.\objects\heap_4.o: ..\user\timswitch.h
+.\objects\heap_4.o: ..\user\SPIFlash.H
+.\objects\heap_4.o: ..\user\rtc.h
+.\objects\heap_4.o: ..\user\time.h
+.\objects\heap_4.o: ..\user\led.h
+.\objects\heap_4.o: ..\user\tcp_data_handle.h
+.\objects\heap_4.o: ..\user\lora_link.h
+.\objects\heap_4.o: ..\user\w25q32.h
+.\objects\heap_4.o: ..\user\Code_Flash.h
+.\objects\heap_4.o: ..\user\db.h
+.\objects\heap_4.o: ..\sfud\sfud.h
+.\objects\heap_4.o: ..\sfud\sfud_def.h
+.\objects\heap_4.o: ..\sfud\sfud_cfg.h
+.\objects\heap_4.o: ..\sfud\sfud_flash_def.h
+.\objects\heap_4.o: ..\FreeRTOS\include\projdefs.h
+.\objects\heap_4.o: ..\FreeRTOS\include\portable.h
+.\objects\heap_4.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\heap_4.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\heap_4.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\heap_4.o: ..\FreeRTOS\include\task.h
+.\objects\heap_4.o: ..\FreeRTOS\include\list.h

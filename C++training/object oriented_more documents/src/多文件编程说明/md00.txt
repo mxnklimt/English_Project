@@ -1,0 +1,12 @@
+创建circlepoint.cpp
+1.将函数实现写在里面
+2.include circlepoint.h
+3.删掉class以及对应大括号
+4.删掉变量
+5.把函数名从int setX(int X)----------------->int point::setX(int X)
+其中point是class的名字，说明他不是全局函数，而是一个成员函数
+
+创建circlepoint.h
+1.复制cpp文件中的函数实现
+2.将里面所有函数的大括号及其里面内容删掉，写;
+3.将class里面的变量保留

@@ -1,0 +1,91 @@
+.\objects\lora_link.o: ..\user\lora_link.c
+.\objects\lora_link.o: ..\user\lora_link.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_clk.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cmInstr.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cmFunc.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_uart.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_gpio.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_lcd.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_flash.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_pwr.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_pwm.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_adc.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_sys.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_timer.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_spi.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH579SFR.h
+.\objects\lora_link.o: ..\library\CMSIS\Include\core_cm0.h
+.\objects\lora_link.o: ..\net_library\CH57xNET.h
+.\objects\lora_link.o: ..\net\net_init.h
+.\objects\lora_link.o: ..\library\StdPeriphDriver\inc\CH57x_common.h
+.\objects\lora_link.o: ..\net\net_dhcp.h
+.\objects\lora_link.o: ..\user\main.h
+.\objects\lora_link.o: ..\net\net_dns.h
+.\objects\lora_link.o: ..\net\net_tcp_client.h
+.\objects\lora_link.o: ..\net\net_udp.h
+.\objects\lora_link.o: ..\user\uart.h
+.\objects\lora_link.o: ..\mem\LoopList.h
+.\objects\lora_link.o: ..\user\tcp_data.h
+.\objects\lora_link.o: ..\user\uart_data.h
+.\objects\lora_link.o: ..\user\send_tcp.h
+.\objects\lora_link.o: ..\FlashDB\flashdb.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\time.h
+.\objects\lora_link.o: ..\FlashDB\fdb_cfg.h
+.\objects\lora_link.o: ..\fal\fal.h
+.\objects\lora_link.o: ..\fal\fal_cfg.h
+.\objects\lora_link.o: ..\fal\fal_def.h
+.\objects\lora_link.o: F:\keil mdk\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\lora_link.o: ..\FlashDB\fdb_def.h
+.\objects\lora_link.o: ..\user\timswitch.h
+.\objects\lora_link.o: ..\user\SPIFlash.H
+.\objects\lora_link.o: ..\user\rtc.h
+.\objects\lora_link.o: ..\user\time.h
+.\objects\lora_link.o: ..\user\led.h
+.\objects\lora_link.o: ..\user\tcp_data_handle.h
+.\objects\lora_link.o: ..\user\lora_link.h
+.\objects\lora_link.o: ..\user\w25q32.h
+.\objects\lora_link.o: ..\user\Code_Flash.h
+.\objects\lora_link.o: ..\user\db.h
+.\objects\lora_link.o: ..\sfud\sfud.h
+.\objects\lora_link.o: ..\sfud\sfud_def.h
+.\objects\lora_link.o: ..\sfud\sfud_cfg.h
+.\objects\lora_link.o: ..\sfud\sfud_flash_def.h
+.\objects\lora_link.o: ..\user\sys_tick.h
+.\objects\lora_link.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\lora_link.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\lora_link.o: ..\FreeRTOS\include\projdefs.h
+.\objects\lora_link.o: ..\FreeRTOS\include\portable.h
+.\objects\lora_link.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\lora_link.o: ..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\objects\lora_link.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\lora_link.o: ..\FreeRTOS\include\task.h
+.\objects\lora_link.o: ..\FreeRTOS\include\list.h

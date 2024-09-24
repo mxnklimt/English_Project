@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\指针">
+      <UniqueIdentifier>{7b80c07b-0739-44ab-99ac-14abf8608e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\数组">
+      <UniqueIdentifier>{0a542e80-77dc-49fe-8b53-43f90b8d8161}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\多文件编写">
+      <UniqueIdentifier>{3a5c5e74-dd0f-4637-a865-156f4fefc452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\基础语法">
+      <UniqueIdentifier>{57ce0d67-83e9-46d9-a87f-b22c6e7d9ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\排序">
+      <UniqueIdentifier>{8704c374-c8f0-4c9a-87be-e0cbc7d16ff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debug">
+      <UniqueIdentifier>{249825ea-ae7e-40b5-b4c9-e4d5efaed68c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\结构体">
+      <UniqueIdentifier>{cb67349b-cbe3-49f7-aacc-59f242b4be64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="模版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="空指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="野指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件\多文件编写</Filter>
+    </ClCompile>
+    <ClCompile Include="函数调用测试.cpp">
+      <Filter>源文件\多文件编写</Filter>
+    </ClCompile>
+    <ClCompile Include="逻辑运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="char.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="比较运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="赋值运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="三目运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="数据输入.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="算术运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="随机数.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="转义字符.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>源文件\基础语法</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="const修饰指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针和数组.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针和函数.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序函数.cpp">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="debug说明.cpp">
+      <Filter>Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="my_function.cpp">
+      <Filter>源文件\多文件编写</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体数组.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体指针.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体嵌套结构体.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体作为函数参数.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体中const的使用场景.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体案例.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体交换.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="my_function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
